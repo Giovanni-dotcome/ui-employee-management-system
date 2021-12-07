@@ -1,7 +1,6 @@
 .App {
   text-align: center;
 }
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +34,21 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  text-align: center;
+  color: white;
+  padding: 1em;
+}
+
+.navbar-a {
+  margin-left: 1em;
+}
+.main {
+  padding: 1em;
 }
