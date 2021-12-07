@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const EMPLOYEE_API_BASE_URI = 'http://localhost:8080/api/v1/employees';
+const EMPLOYEE_API_BASE_URI = 'https://devito-api-employee-manage-sys.herokuapp.com/employees';
 
 class EmployeeService {
 
